@@ -5,8 +5,13 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JMC2002&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMC2002&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMC2002&theme=transparent" alt="GitHub stats" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMC2002&theme=transparent&utcOffset=8" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMC2002&theme=transparent" alt="Repositories per language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMC2002&theme=transparent" alt="Most commit language" />
 </p>
 
 <p align="center">
