@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMC2002&theme=transparent" alt="GitHub stats" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMC2002&theme=transparent&utcOffset=8" alt="Productive time" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMC2002&amp;theme=transparent" alt="GitHub stats" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMC2002&amp;theme=transparent" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMC2002&theme=transparent" alt="Repositories per language" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMC2002&theme=transparent" alt="Most commit language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMC2002&amp;theme=transparent" alt="Repositories per language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMC2002&amp;theme=transparent" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMC2002&theme=transparent" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMC2002&amp;theme=transparent" alt="Profile details" />
 </p>
 
 <p align="center">
