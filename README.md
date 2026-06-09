@@ -6,7 +6,7 @@
 
 <p align="center">
   <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMC2002&amp;theme=transparent" alt="GitHub stats" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMC2002&amp;theme=transparent" alt="Productive time" />
+  <img width="400" src="https://streak-stats.demolab.com?user=JMC2002&amp;theme=transparent&amp;hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
