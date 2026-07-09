@@ -5,18 +5,14 @@
 </p>
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMC2002&amp;theme=transparent" alt="GitHub stats" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JMC2002&amp;theme=transparent" alt="Productive time" />
+  <img src="./metrics.svg" alt="JMC2002 GitHub metrics" />
 </p>
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMC2002&amp;theme=transparent" alt="Repositories per language" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JMC2002&amp;theme=transparent" alt="Most commit language" />
+  <img src="./metrics.jmc-mods.svg" alt="JMC-Mods organization metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMC2002&amp;theme=transparent" alt="Profile details" />
-</p>
+---
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
